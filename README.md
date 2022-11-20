@@ -1,8 +1,8 @@
-##Hello! My name is Tuyana
+## Hello! My name is Tuyana
 
-#I have a puppy dog named Lacky
+# I have a puppy dog named Lacky
 
-!<So cute>(http://udivitelno.com/images/10/poroda-sobak-velsh-korgi/3-Милый щенок породы вельш-корги.jpg)
+! <So cute>(http://udivitelno.com/images/10/poroda-sobak-velsh-korgi/3-Милый щенок породы вельш-корги.jpg)
 
 
 3 Pet Facts:
