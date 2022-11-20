@@ -2,7 +2,7 @@
 
 ## I have a puppy dog named Lacky
 
-! <So cute>(http://udivitelno.com/images/10/poroda-sobak-velsh-korgi/3-Милый.jpg)
+! <So cute>(/images/10/poroda-sobak-velsh-korgi/3-Милый.jpg)
 
 
 3 Pet Facts:
