@@ -2,7 +2,7 @@
 
 ## I have a puppy dog named Lacky
 
-![So cute](C:/Users/tuyan/Desktop/корги.jpg)
+![So cute](D:/My Folder/daxue1/8 09 2017/0dEU0K1lBIs.jpg)
 
 
 3 Pet Facts:
