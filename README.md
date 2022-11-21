@@ -2,7 +2,7 @@
 
 ## I have a puppy dog named Lacky
 
-![](TD2022tuyana/My-pet/images/korgi-3.JPG)
+![](https://sobaky.info/wp-content/uploads/2018/02/1-4.jpg)
 
 
 3 Pet Facts:
