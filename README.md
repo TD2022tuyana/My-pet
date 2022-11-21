@@ -2,7 +2,7 @@
 
 ## I have a puppy dog named Lacky
 
-![](C:/Users/tuyan/Desktop/korgi-3.JPG)
+![](../C:/Users/tuyan/Desktop/korgi-3.JPG)
 
 
 3 Pet Facts:
